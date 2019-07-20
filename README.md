@@ -18,6 +18,7 @@
 
 # 連絡先
 name:T.kameoak / faruco10032
+
 Twitter:@faruco10032
 
 # 注意
